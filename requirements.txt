@@ -1,0 +1,10 @@
+#python=3.11 #for pytorch to work
+langchain
+sentence_transformers
+transformers
+#torch #on local system python <=3.11
+sentencepiece
+accelerate
+pypdf
+tiktoken
+streamlit
